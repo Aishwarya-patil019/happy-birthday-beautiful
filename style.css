@@ -1,0 +1,36 @@
+body{
+    background: linear-gradient(
+        135deg,
+        #fff9fb,
+        #ffd6e7
+    );
+
+    height:100vh;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+    font-family:Arial,sans-serif;
+}
+
+.container{
+    text-align:center;
+}
+
+h1{
+    color:#ff69b4;
+}
+
+h2{
+    color:#d63384;
+}
+
+button{
+    background:white;
+    border:none;
+    padding:15px 30px;
+    border-radius:30px;
+    font-size:18px;
+    cursor:pointer;
+}
